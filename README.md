@@ -26,11 +26,24 @@ Founder & CEO of **[SepantaPixel](https://sepantapixel.ir)**. When I'm not codin
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,nodejs,nestjs,php,py,postgres,mysql,redis,linux,docker,cloudflare,githubactions&theme=dark" alt="Skills" />
+**Languages**
 
-<br />
+<img src="https://skillicons.dev/icons?i=java,js,ts,py,php,html,css&theme=dark" />
+
+**Frameworks & Runtime**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,laravel,vite,tailwind&theme=dark" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" />
+
+**Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,git,github,githubactions&theme=dark" />
 
 </div>
+
 
 ---
 
