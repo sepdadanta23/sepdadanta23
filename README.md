@@ -8,7 +8,7 @@
 </a>
 
 <p>
-  <code>14 y/o Developer & Entrepreneur</code> • <code>📍 Babol, Iran</code>
+  <code>Developer & Entrepreneur</code> • <code>📍 Babol, Iran</code>
 </p>
 
 </div>
