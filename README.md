@@ -59,15 +59,6 @@ Founder & CEO of **[SepantaPixel](https://sepantapixel.ir)**. When I'm not codin
 
 <div align="center">
 
-<!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<YOUR_GITHUB_USERNAME>/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<YOUR_GITHUB_USERNAME>/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<YOUR_GITHUB_USERNAME>/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-<br /><br />
-
 <!-- STATS -->
 <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b&hide_border=false" width="48%" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=<YOUR_GITHUB_USERNAME>&theme=tokyonight&background=0d1117&border=1e293b&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&dates=94a3b8" width="48%" alt="GitHub Streak" />
@@ -78,6 +69,6 @@ Founder & CEO of **[SepantaPixel](https://sepantapixel.ir)**. When I'm not codin
 
 <div align="center">
 
-[Website](https://sepantapixel.ir) • [Client Portal](https://my.sepantapixel.ir) • [GitHub](https://github.com/<YOUR_GITHUB_USERNAME>)
+[Website](https://sepantapixel.ir) • [Client Portal](https://my.sepantapixel.ir) • [GitHub](https://github.com/sepdadanta)
 
 </div>
