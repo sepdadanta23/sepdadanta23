@@ -50,8 +50,7 @@ Founder & CEO of **[SepantaPixel](https://sepantapixel.ir)**. When I'm not codin
 ### 🚀 Projects
 
 * 🌐 **[SepantaPixel](https://sepantapixel.ir)** — Hosting and cloud services platform providing VPS nodes, server management, and infrastructure solutions. *(Client Area: [my.sepantapixel.ir](https://my.sepantapixel.ir))*
-* ⚡ **Personal Portfolio** — A fast, modern developer portfolio built with React, TypeScript, Vite, and Tailwind CSS.
-* 🎮 **Minecraft Infrastructure** — High-performance game server architecture powered by Pterodactyl, Docker, and Linux.
+* 🎮 **[CustomEnderChest](https://github.com/sepdadanta23/CustomEnderChest)** — A lightweight, high-performance Paper/Spigot plugin for expanding Minecraft Ender Chests up to 54 slots with vanilla-safe storage.
 
 ---
 
