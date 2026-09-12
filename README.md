@@ -59,6 +59,7 @@ Founder & CEO of **[SepantaPixel](https://sepantapixel.ir)**. When I'm not codin
 <div align="center">
 
 <!-- STATS -->
+<img src="https://github-readme-stats.vercel.app/api?username=sepdadanta&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=818cf8&border_color=1e293b&hide_border=false" width="48%" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sepdadanta&theme=tokyonight&background=0d1117&border=1e293b&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&dates=94a3b8" width="48%" alt="GitHub Streak" />
 
 </div>
