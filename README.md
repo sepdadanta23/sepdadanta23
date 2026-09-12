@@ -4,7 +4,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://sepantapixel.ir">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&height=45&lines=Full-Stack+Developer;Founder+%26+CEO+%40+SepantaPixel;Linux+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&height=45&lines=Full-Stack+Developer;Co-Founder+%26+CEO+%40+SepantaPixel;Linux+%26+Cloud+Enthusiast" alt="Typing SVG" />
 </a>
 
 <p>
@@ -18,7 +18,7 @@
 ### ⚡ About Me
 
 I'm a developer and entrepreneur focused on building modern web applications and reliable hosting infrastructure.  
-Founder & CEO of **[SepantaPixel](https://sepantapixel.ir)**. When I'm not coding, I'm managing Linux servers, working with cloud infrastructure, and tinkering with game server setups.
+Co-Founder & CEO of **[SepantaPixel](https://sepantapixel.ir)**. When I'm not coding, I'm managing Linux servers, working with cloud infrastructure, and tinkering with game server setups.
 
 ---
 
